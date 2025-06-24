@@ -3,9 +3,9 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hirasajid&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/hirasajid?style=flat-square&color=blue" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/hirasajid?style=flat-square&color=yellow" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=hsajid-cs&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/hsajid-cs?style=flat-square&color=blue" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/hsajid-cs?style=flat-square&color=yellow" alt="Stars" />
 </div>
 
 <br>
@@ -23,7 +23,7 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" alt="Coding GIF" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img align="right" alt="Coding GIF" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
 ```typescript
 const hira = {
@@ -75,16 +75,16 @@ const hira = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hirasajid&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirasajid&layout=compact&theme=radical&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hsajid-cs&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsajid-cs&layout=compact&theme=radical&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hirasajid&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hsajid-cs&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hirasajid&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hsajid-cs&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
 </div>
 
 ---
@@ -188,7 +188,7 @@ graph LR
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hirasajid&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=hsajid-cs&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=4" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -202,7 +202,7 @@ graph LR
 <!--END_SECTION:activity-->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/hirasajid/hirasajid/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/hsajid-cs/hsajid-cs/output/snake.svg" alt="Snake animation" />
 </div>
 
 ---
@@ -213,7 +213,7 @@ graph LR
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hirasajid.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hsajid-cs)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hirasajid)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hsajid-cs)
 
 </div>
 
