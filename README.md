@@ -78,10 +78,6 @@ const hira = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hsajid-cs&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hsajid-cs&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
-</div>
-
 ---
 
 ## 🚀 Projects I'm Proud Of
