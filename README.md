@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=100&lines=Hi%2C+I'm+Hira+Sajid+%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB;Computer+Science+Student;Full-Stack+Developer;AI+Enthusiast" alt="Typing SVG" />
-</div>
-
-<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=100&lines=Hi%2C+I+am+Hira;Flutter+dev;AI%2FML+research;CS+%40+NUST" alt="Typing SVG" />
 </div>
 
