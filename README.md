@@ -53,22 +53,15 @@ const hira = {
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Frameworks & Tools
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-### Soft Skills
-![Communication](https://img.shields.io/badge/Clear_Communicator-4CAF50?style=for-the-badge&logo=chat&logoColor=white)
-![Learning](https://img.shields.io/badge/Curious_Learner-2196F3?style=for-the-badge&logo=search&logoColor=white)
-![Collaboration](https://img.shields.io/badge/Team_Player-9C27B0?style=for-the-badge&logo=people&logoColor=white)
 
 </div>
 
@@ -142,27 +135,9 @@ graph LR
     style C fill:#f59e0b,stroke:#d97706,color:#fff
     style D fill:#ec4899,stroke:#db2777,color:#fff
 ```
-
-- 📱 **Building Android apps like a pro** (via Meta's Professional Certificate)
-- 🤖 **Practicing ethical AI** and real-world ML applications  
-- 🎨 **Designing intuitive UIs** that don't make users cry
-- 🌐 **Full-stack development** with modern frameworks
-- 📊 **Data visualization** and analytics
-
 ---
 
 ## 🏆 Achievements & Highlights
-
-<div align="center">
-
-| 🎯 Metric | 📊 Value |
-|-----------|----------|
-| **Projects Built** | 15+ |
-| **Students Mentored** | 20+ |
-| **GitHub Contributions** | 500+ |
-| **Cups of Coffee** | ∞ |
-
-</div>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=hsajid-cs&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=4" alt="GitHub Trophies"/>
@@ -206,5 +181,5 @@ graph LR
 
 <div align="center">
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with love"/>
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by coffee"/>
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Chai"/>
 </div>
