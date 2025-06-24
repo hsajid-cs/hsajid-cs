@@ -97,18 +97,6 @@ const hira = {
 <tr>
 <td width="50%">
 
-### 🧠 Pact AI
-*Mental wellness app with AI-powered journaling*
-
-**Tech Stack:** `Flutter` `Claude API` `Firebase`
-
-A comprehensive mental health companion featuring AI-powered journaling and chat support to help users track and improve their mental wellness journey.
-
-⭐ **24 stars** • 🔗 [View Project](#)
-
-</td>
-<td width="50%">
-
 ### 🍽️ Satiate
 *Food donation platform with real-time tracking*
 
@@ -119,8 +107,6 @@ Platform connecting food donors with NGOs, featuring real-time inventory trackin
 ⭐ **18 stars** • 🔗 [View Project](#)
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### 👋 Hand Maestro
@@ -133,20 +119,9 @@ Hands-free media control using computer vision and gesture recognition, perfect 
 ⭐ **31 stars** • 🔗 [View Project](#)
 
 </td>
-<td width="50%">
-
-### 🚫 BlockedAI
-*AI-powered focus extension*
-
-**Tech Stack:** `JavaScript` `Chrome API` `AI`
-
-Chrome extension that politely tells distractions to go away, helping users maintain focus with AI-powered intervention.
-
-⭐ **12 stars** • 🔗 [View Project](#)
-
-</td>
 </tr>
 </table>
+
 
 ---
 
