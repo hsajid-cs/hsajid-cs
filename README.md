@@ -3,6 +3,12 @@
 </div>
 
 <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&height=100&lines=Hi%2C+I+am+Hira;Flutter+dev;AI%2FML+research;CS+%40+NUST" alt="Typing SVG" />
+</div>
+
+
+
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=hsajid-cs&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/hsajid-cs?style=flat-square&color=blue" alt="Followers" />
   <img src="https://img.shields.io/github/stars/hsajid-cs?style=flat-square&color=yellow" alt="Stars" />
