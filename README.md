@@ -137,14 +137,6 @@ graph LR
 ```
 ---
 
-## 🏆 Achievements & Highlights
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hsajid-cs&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=4" alt="GitHub Trophies"/>
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <!--START_SECTION:activity-->
