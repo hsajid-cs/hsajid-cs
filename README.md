@@ -23,27 +23,6 @@
 
 ---
 
-## 🧑‍💻 About Me
-
-<img align="right" alt="Coding GIF" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-
-```typescript
-const hira = {
-    location: "Islamabad, Pakistan",
-    education: "Computer Science @ NUST",
-    currentFocus: ["Cross-platform apps", "AI tools", "UI/UX"],
-    hobbies: ["Building cool stuff", "Teaching/Mentoring", "Event organizing"],
-    funFact: "I might be refactoring code or decorating a campus event—no in-between!"
-};
-```
-
-- 🔭 Building **cross-platform apps**, **AI tools**, and anything that makes life easier (or more fun!)
-- 🎓 I love **simplifying complex ideas**—through clean code or one-on-one tutoring sessions  
-- 🌱 Always exploring the intersection of **design**, **development**, and **impact**
-- 👥 Mentored **20+ students** and built **15+ projects**
-- ⚡ **Fun fact**: I debug mostly my own brain 🧠
-
----
 
 ## 🛠️ Tech Stack
 
