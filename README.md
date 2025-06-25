@@ -89,25 +89,6 @@ Hands-free media control using computer vision and gesture recognition, perfect 
 
 ---
 
-## 🎓 Learning Goals
-
-```mermaid
-graph LR
-    A[🎯 Current Goals] --> B[📱 Android Development]
-    A --> C[🤖 Ethical AI & ML]
-    A --> D[🎨 Intuitive UI Design]
-    
-    B --> E[Meta Professional Cert]
-    C --> F[Real-world Applications]
-    D --> G[User-Friendly Interfaces]
-    
-    style A fill:#6366f1,stroke:#4f46e5,color:#fff
-    style B fill:#10b981,stroke:#059669,color:#fff
-    style C fill:#f59e0b,stroke:#d97706,color:#fff
-    style D fill:#ec4899,stroke:#db2777,color:#fff
-```
----
-
 ## 📈 Contribution Activity
 
 <!--START_SECTION:activity-->
@@ -144,5 +125,5 @@ graph LR
 
 <div align="center">
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with love"/>
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Chai"/>
+  <img src="https://forthebadge.com/images/badges/powered-by-chai.svg" alt="Powered by Chai"/>
 </div>
