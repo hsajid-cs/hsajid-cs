@@ -125,5 +125,5 @@ Hands-free media control using computer vision and gesture recognition, perfect 
 
 <div align="center">
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with love"/>
-  <img src="https://forthebadge.com/images/badges/powered-by-chai.svg" alt="Powered by Chai"/>
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee"/>
 </div>
