@@ -91,12 +91,6 @@ Hands-free media control using computer vision and gesture recognition, perfect 
 
 ## 📈 Contribution Activity
 
-<!--START_SECTION:activity-->
-- 🔥 Recent activity will be displayed here automatically
-- 📝 Latest commits and contributions
-- 🚀 Project updates and releases
-<!--END_SECTION:activity-->
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/hsajid-cs/hsajid-cs/output/snake.svg" alt="Snake animation" />
 </div>
