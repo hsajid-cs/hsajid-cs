@@ -66,11 +66,9 @@
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hsajid-cs&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsajid-cs&layout=compact&theme=radical&hide_border=true"/>
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hsajid-cs&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </div>
+
 
 ---
 
