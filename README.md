@@ -55,13 +55,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" width="40"/>
-
-<!-- Additional Tools -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/88/RStudio_Logo.svg" width="40" title="R Markdown"/> <!-- unofficial -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Openai_logo.svg" width="40" title="OpenAI"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Mistral_logo.png/320px-Mistral_logo.png" width="40" title="Mistral AI"/>
-
 </div>
 
 
