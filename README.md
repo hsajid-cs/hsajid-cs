@@ -85,7 +85,7 @@
 
 Platform connecting food donors with NGOs, featuring real-time inventory tracking to reduce food waste and help those in need.
 
-⭐ **18 stars** • 🔗 [View Project](#)
+⭐ **18 stars** • 🔗 [View Project](https://github.com/hsajid-cs/Satiate-food-donation)
 
 </td>
 <td width="50%">
@@ -97,7 +97,7 @@ Platform connecting food donors with NGOs, featuring real-time inventory trackin
 
 Hands-free media control using computer vision and gesture recognition, perfect for presentations and accessibility needs.
 
-⭐ **31 stars** • 🔗 [View Project](#)
+⭐ **31 stars** • 🔗 [View Project](https://github.com/hsajid-cs/Hand-Maestro)
 
 </td>
 </tr>
