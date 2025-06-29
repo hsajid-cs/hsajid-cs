@@ -5,7 +5,7 @@
 
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hsajid-cs&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />Add commentMore actions
+  <img src="https://komarev.com/ghpvc/?username=hsajid-cs&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/hsajid-cs?style=flat-square&color=blue" alt="Followers" />
   <img src="https://img.shields.io/github/stars/hsajid-cs?style=flat-square&color=yellow" alt="Stars" />
 </div>
@@ -64,10 +64,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hsajid-cs&show_icons=true&theme=monokai&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsajid-cs&layout=compact&theme=monokai&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hsajid-cs&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsajid-cs&layout=compact&theme=radical&hide_border=true"/>
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=hsajid-cs&theme=monokai-metallian&hide_border=true&short_numbers=true" alt="Hira's GitHub Streak"/>
-
 </div>
 
 
