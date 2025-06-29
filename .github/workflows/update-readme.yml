@@ -1,12 +1,9 @@
-name: Update GitHub Stats
+name: 🔁 Update GitHub Stats
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Every day at 12:00 AM UTC
+    - cron: "0 0 * * *"  # Every day at midnight UTC
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 jobs:
   update-readme:
@@ -15,18 +12,26 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - name: Generate Stats and Update README
+      - name: Replace Stats Section
         run: |
-          echo '![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hsajid-cs&show_icons=true&theme=radical&hide_border=true&count_private=true)' > README.md
-          echo '![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hsajid-cs&layout=compact&theme=radical&hide_border=true)' >> README.md
-          echo '![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=hsajid-cs&theme=radical&hide_border=true&short_numbers=true)' >> README.md
+          STATS=$(cat <<'EOF'
+          <div align="center">
+            <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hsajid-cs&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
+            <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsajid-cs&layout=compact&theme=radical&hide_border=true"/>
+            <img height="180em" src="https://github-readme-streak-stats-eight.vercel.app/?user=hsajid-cs&theme=radical&hide_border=true&short_numbers=true" alt="Hira's GitHub Streak"/>
+          </div>
+          EOF
+          )
+          
+          awk '/<!--START_SECTION:stats-->/ { print; print STATS; skip=1; next } /<!--END_SECTION:stats-->/ { skip=0 } !skip' STATS="$STATS" README.md > updated.md
+          mv updated.md README.md
 
       - name: Commit and Push Changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git commit -m "📈 update GitHub stats"
+          git commit -m "🔄 update GitHub stats section"
           git push
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
