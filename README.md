@@ -64,10 +64,10 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hsajid-cs&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsajid-cs&layout=compact&theme=radical&hide_border=true"/>
-  <img src="https://github-readme-streak-stats.vercel.app/?user=hsajid-cs&theme=radical&hide_border=true&date_format=M%20D%5B%2C%20Y%5D" alt="Hira's GitHub Streak"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hsajid-cs&show_icons=true&theme=monokai&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsajid-cs&layout=compact&theme=monokai&hide_border=true"/>
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=hsajid-cs&theme=monokai-metallian&hide_border=true&short_numbers=true" alt="Hira's GitHub Streak"/>
+
 </div>
 
 
