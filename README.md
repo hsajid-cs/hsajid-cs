@@ -66,7 +66,7 @@
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hsajid-cs&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsajid-cs&layout=compact&theme=radical&hide_border=true"/>
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=hsajid-cs&theme=monokai-metallian&hide_border=true&short_numbers=true" alt="Hira's GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hsajid-cs&theme=radical&hide_border=true&short_numbers=true" alt="Hira's GitHub Streak"/>
 </div>
 
 
@@ -85,7 +85,7 @@
 
 Platform connecting food donors with NGOs, featuring real-time inventory tracking to reduce food waste and help those in need.
 
-⭐ **18 stars** • 🔗 [View Project](https://github.com/hsajid-cs/Satiate-food-donation)
+🔗 [View Project](https://github.com/hsajid-cs/Satiate-food-donation)
 
 </td>
 <td width="50%">
@@ -97,7 +97,7 @@ Platform connecting food donors with NGOs, featuring real-time inventory trackin
 
 Hands-free media control using computer vision and gesture recognition, perfect for presentations and accessibility needs.
 
-⭐ **31 stars** • 🔗 [View Project](https://github.com/hsajid-cs/Hand-Maestro)
+🔗 [View Project](https://github.com/hsajid-cs/Hand-Maestro)
 
 </td>
 </tr>
