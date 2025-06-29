@@ -64,6 +64,11 @@
 ## 📊 GitHub Stats
 
 <!--START_SECTION:stats-->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hsajid-cs&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hsajid-cs&layout=compact&theme=radical&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats-eight.vercel.app/?user=hsajid-cs&theme=radical&hide_border=true&short_numbers=true" alt="Hira's GitHub Streak"/>
+</div>
 <!--END_SECTION:stats-->
 
 
